@@ -36,7 +36,7 @@ The `Churn` column is the key variable, indicating whether a customer has left t
 #### Future Work
 - Implement **predictive modeling** using machine learning to forecast churn risk.
 - Conduct **sentiment analysis** on customer feedback to identify service pain points.
-- 
+
 ## **How to Use This Repository**
-- The full analysis and insights are documented in `telco_churn_analysis.doc`.
+- The dataset is available in the repository.
 - Run the provided Python scripts to reproduce the analysis and visualizations.
